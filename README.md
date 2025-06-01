@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rafim19
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack programming
+- 👋 Hi, I’m Rafi
+- 👀 I’m interested in web development & mobile development
+- 🌱 I’m currently working as a full-stack programmer
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me [@rafmuhammad19](https://www.instagram.com/rafmuhammad19/) (Instagram) | rafimuhammad80@gmail.com (Email)
 
